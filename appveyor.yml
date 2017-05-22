@@ -1,0 +1,11 @@
+version: '{build}'
+build_script:
+- cmd: build.cmd
+artifacts:
+- path: ./artifacts/*.nupkg
+  name: Nuget
+deploy:
+- provider: Environment
+  name: NuGet.org
+  on:
+    branch: master  

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>NSS Web Services</authors>
+    <owners>NSS Web Services</owners>
+    <licenseUrl>https://raw.githubusercontent.com/nsswebservices/Nest.Indexing/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/nsswebservices/Nest.Indexing</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+  </metadata>
+</package>
